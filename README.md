@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoantas&hide=html&layout=compact&theme=buefy" /> <br>
+<img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoantas&hide=html&layout=compact&theme=buefy" />
 
 
-
+teste 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
