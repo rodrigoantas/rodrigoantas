@@ -9,8 +9,8 @@ I'm 23 years old, love games, coding and a beer once in a while.
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/rodrigo-antas-1795071b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a> [LinkedIn](https://www.linkedin.com/in/rodrigo-antas-1795071b3/)  
-<a href="mailto:rodr.antas@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img></a> [Email](mailto:rodr.antas@gmail.com)
+<a href="https://www.linkedin.com/in/rodrigo-antas-1795071b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
+<a href="mailto:rodr.antas@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 
 
