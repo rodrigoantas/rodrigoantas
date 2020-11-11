@@ -35,4 +35,8 @@ I'm a psychology graduate student, so you can always talk with me about the mind
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoantas&theme=buefy"/></td>
     </tr>   
   </table>
-</center>  
+</center>
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
