@@ -3,7 +3,7 @@
 My name is Rodrigo Antas. I'm from Brazil, currently living in Rio de Janeiro.
 I'm 23 years old, love games, coding and a beer once in a while.
 
-- 🔭 I’m currently working with Javascript, Typescript, React, ReactNative and NodeJS.
+- 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>.
 - 😄 Pronouns: He/Him
 - 💬 Ask me something!
 
