@@ -1,11 +1,12 @@
-### Hi there!
+### Hi there! Welcome to my profile.
 
-My name is Rodrigo Antas. I'm from Brazil, currently living in Rio de Janeiro.
-I'm 23 years old, love games, coding and a beer once in a while.
+My name is Rodrigo Antas. I'm from Brazil, currently living in Rio de Janeiro. <br />
+I'm 23 years old, i love games, fashion, visual arts, coding and a beer once in a while. <br />
+I'm a psychology graduate student, so you can always talk with me about the mind, unconscious issues, and things like that.
 
-- 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>.
+- 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>. Yes, i'm javascript based! 😵
+- 💬 Ask me something about psychoanalysis :)
 - 😄 Pronouns: He/Him
-- 💬 Ask me something!
 
 ### Connect with me:
 
@@ -15,8 +16,7 @@ I'm 23 years old, love games, coding and a beer once in a while.
 
 
 
-### About me!
-
+### My techs:
 
 <center>
   <table>
