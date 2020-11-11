@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" />  
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
