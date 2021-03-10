@@ -23,8 +23,9 @@ I'm a psychology graduate student, so you can always talk with me about the mind
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/rodrigo-antas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a> 
-<a href="mailto:rodrigoantas@outlook.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=email&logoColor=white"></img></a>
 <a href="https://t.me/rodrigoantas"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+<a href="mailto:rodrigoantas@outlook.com"><img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=email&logoColor=white"></img></a>
+
 
 
 
