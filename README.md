@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile.
 
-https://www.rodrigoantas.dev/
+https://www.rodrigoantas.com/
 </br>
 My name is Rodrigo Antas. I'm from Brazil, currently living in Rio de Janeiro and i like to joke that i'm a "software therapist". <br />
 I'm 23 years old, i love games, fashion, visual arts, coding and a beer once in a while. <br />
