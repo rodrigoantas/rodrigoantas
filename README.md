@@ -5,18 +5,14 @@ https://www.rodrigoantas.com/
 My name is Rodrigo Antas. I'm from Brazil, currently living in Rio de Janeiro and i like to joke that i'm a "software therapist". <br />
 I'm 23 years old, i love games, fashion, visual arts, coding and a beer once in a while. <br />
 I'm a psychology graduate student, so you can always talk with me about the mind, unconscious issues, and things like that.
-
-- 🔭 I’m currently working with <strong> Javascript, Typescript, React, ReactNative and NodeJS </strong>. Yes, i'm javascript based! 😵
-- 💬 Ask me something about psychoanalysis :)
-- 😄 Pronouns: He/Him
-
+<!---
 
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React and React native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
+-->
 
 <br />
 
@@ -28,7 +24,7 @@ I'm a psychology graduate student, so you can always talk with me about the mind
 
 
 
-
+<!---
 ### My techs:
 
 <center>
@@ -42,4 +38,5 @@ I'm a psychology graduate student, so you can always talk with me about the mind
 
 
 
-![](https://komarev.com/ghpvc/?username=rodrigoantas&color=yellow)
+![](https://komarev.com/ghpvc/?username=rodrigoantas&color=yellow) 
+-->
